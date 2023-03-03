@@ -7,7 +7,7 @@
   
 <p align="left"> <a href="https://twitter.com/hassanelzarkawy" target="blank"><img src="https://img.shields.io/twitter/follow/hassanelzarkawy?logo=twitter&style=for-the-badge" alt="hassanelzarkawy" /></a> </p>  
   
-- 💬 Ask me about **PHP, C#, C++, Python, ReactJS**  
+- 💬 Ask me about **PHP, C#, C++, Python, ReactJS, VueJS, Kotlin**  
   
 - 📫 How to reach me **hassan.elzarkawy@aiesec.net**  
   
